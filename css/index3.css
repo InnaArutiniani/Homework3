@@ -1,0 +1,54 @@
+.logo {margin-left:30px;
+       margin-top: 30px;
+       margin-bottom: 24px;
+}
+ul {
+  list-style-type: none;
+  padding-bottom:0px;
+  padding-left: 0px;
+  margin-left: 31px;
+  font-size: 22px;
+  font-family: "BPG Nino Mtavruli Bold", sans-serif;
+  text-align:left;
+color: #3D58A6;
+}
+li {
+  margin-bottom: 12px;
+}
+.active a{
+  color: #EE4036;}
+a {text-decoration: none;
+color:#3D58A6; 
+}
+.p{text-align: center;
+  font-family: "BPG Ingiri Arial", sans-serif;
+    font-size: 16px;
+    margin-top: 12px;
+    color: #CFCFCF;
+}
+.contactA {text-align: center;
+  font-family: "BPG Ingiri Arial", sans-serif;
+  font-size: 16px;
+  color: #000000;
+}
+.Contact{margin-top: 154px;
+         margin-bottom: 272px;
+         text-align: center;
+         font-family: "BPG Nino Mtavruli Bold", sans-serif;
+        font-size: 20px;
+        color:#3D58A6
+}
+main{
+  margin-top: 154px;
+  margin-bottom: 272px;
+}
+  .footer{
+  margin-left: 30px;
+  text-align: left;}
+ .vertical-line{
+        border-left: 2px solid #3D58A6;
+        display: inline-block;
+        height: 27px;
+        width:0px;
+        margin:0 32px;
+        color: blue;}
